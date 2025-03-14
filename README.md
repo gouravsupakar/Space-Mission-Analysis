@@ -6,4 +6,4 @@ https://app.powerbi.com/view?r=eyJrIjoiNDZjODc1NmUtNzA0My00YzUzLWJhNTMtNGNjZDE4Y
 
 
 ![image alt](https://github.com/gouravsupakar/Space-Mission-Analysis/blob/main/Screenshot%202025-03-14%20223512.png?raw=true)
-![image alt]()
+![image alt](https://github.com/gouravsupakar/Space-Mission-Analysis/blob/main/Screenshot%202025-03-14%20223529.png?raw=true)
